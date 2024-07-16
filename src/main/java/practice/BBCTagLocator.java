@@ -29,6 +29,7 @@ public class BBCTagLocator {
             String text = element.getText();
             if (!text.isEmpty()){
                 System.out.println(text);
+
             }
         }
 
